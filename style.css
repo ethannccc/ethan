@@ -1,0 +1,12 @@
+body {
+  background: #a2efea;
+  text-align: center;
+}
+
+#move {
+  position: relative;
+}
+
+img {
+    width: 30%;
+}
